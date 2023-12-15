@@ -1,0 +1,9 @@
+.dynamicH {
+    color: blue;
+    animation-name: dynColor;
+    animation-duration: 4s;
+}
+@keyframes dynColor {
+    from {color: rgb(15, 96, 218);}
+    to {color: rgb(230, 9, 9);}
+}
