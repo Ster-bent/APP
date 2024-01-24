@@ -10,6 +10,6 @@
     from {color: rgb(255, 0, 128);}
     to {color: rgb(242, 0, 255);}
 }
-.base {
-    color: rgb(237, 152, 215);
+body {
+    background-color: rgb(237, 152, 215);
 }
