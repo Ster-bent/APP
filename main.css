@@ -31,9 +31,10 @@ img {
     padding: 5px;
   }
 .contentContainer {
+    margin:auto;
     border: 5px solid black;
     border-radius: 50px;
-    width: 100px;
-    height: 100px;
+    width: 50%;
+    height: 50%;
     background-color: rgb(255, 0, 128);
 }
