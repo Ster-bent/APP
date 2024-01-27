@@ -40,7 +40,11 @@ img {
     text-align: center;
 }
 .content {
+    border: 5px solid transparent;
     margin: auto;
     width: 50%;
     height: 50%;
+}
+div {
+    text-align:center;
 }
