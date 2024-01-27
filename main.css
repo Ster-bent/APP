@@ -38,3 +38,8 @@ img {
     height: 100%;
     background-color: rgb(255, 0, 128);
 }
+.content {
+    margin: auto;
+    width: 50%;
+    height: 50%;
+}
