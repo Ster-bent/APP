@@ -29,7 +29,8 @@ img {
 .contentContainer {
     border-width: 5px;
     border-color: black;
-    border-bottom-left-radius: 10px;
+    border-bottom-left-radius: 100px;
+    border-radius: 50px;
     width: 10px;
     height: 10px;
     background-color: rgb(255, 0, 128);
