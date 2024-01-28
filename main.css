@@ -53,3 +53,6 @@ div {
 .kitty {
     border: 5px solid transparent;
 }
+.kitty:hover {
+    filter:invert(1)
+}
