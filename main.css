@@ -5,10 +5,14 @@
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
     text-shadow: black;
+    border: 5px solid rgb(255, 0, 128);
+    border-radius: 100px;
 }
 @keyframes dynColor {
     from {color: rgb(255, 0, 128);}
     to {color: rgb(242, 0, 255);}
+    from {border-color: rgb(255, 0, 128);}
+    to {border-color: rgb(242, 0, 255);}
 }
 body {
     background-color: rgb(231, 178, 217);
