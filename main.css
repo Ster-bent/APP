@@ -56,3 +56,6 @@ div {
 .kitty:hover {
     filter:invert(1)
 }
+h3 {
+    text-align: center;
+}
