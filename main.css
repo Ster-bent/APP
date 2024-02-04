@@ -69,4 +69,6 @@ h3 {
     border: 5px solid black;
     border-radius: 100px;
     background-color: white;
+    margin-left: 40px;
+    margin-right: 40px;
 }
